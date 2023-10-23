@@ -1,6 +1,11 @@
 # Анастасия Остапчук
 
-### Обо мне
+### Контакты
+
+[![e-mail](https://img.shields.io/badge/-email-color&?style=for-the-badge&color=informational&logo=email)](mailto:ostapchuk.anastasiia.v@gmail.com)
+[![VK](https://img.shields.io/badge/-VK-color&?style=for-the-badge&color=45668e&logo=VK)](https://vk.com/anisia_kisa)
+[![telegram](https://img.shields.io/badge/-telegram-color&?style=for-the-badge&color=45668e&logo=telegram)](https://t.me/anastasiia_ost_v)
+
 
 ![](https://raw.githubusercontent.com/aniciya777/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
@@ -28,26 +33,20 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-color&?style=for-the-badge&color=informational&logo=JavaScript&logoColor=white)
 ![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-color&?style=for-the-badge&color=informational&logo=Vue.js&logoColor=white)
 
-### Социальные сети
-
-[![e-mail](https://img.shields.io/badge/-email-color&?style=for-the-badge&color=informational&logo=email)](mailto:ostapchuk.anastasiia.v@gmail.com)
-[![VK](https://img.shields.io/badge/-VK-color&?style=for-the-badge&color=45668e&logo=VK)](https://vk.com/anisia_kisa)
-[![telegram](https://img.shields.io/badge/-telegram-color&?style=for-the-badge&color=45668e&logo=telegram)](https://t.me/anastasiia_ost_v)
-
 ### Образование
 * **01.04.02 Прикладная математика и информатика**, ВФ ВолГУ
 <br />Бакалавриат
 <br />Профиль: *Математическое и информационное обеспечение экономической деятельности*
-<br />*2024 г.*
+<br />*2020-2024 г.*
 
 ### Опыт работы
 
 * Специалист по тестированию и разработке в области информационных технологий <br>
-*АНО ДПО "Исследовательский центр "МОСТ-Управление изменениями* (2020-2021)
+*АНО ДПО "Исследовательский центр "МОСТ-Управление изменениями""* (2020-2021)
     * *Разработка специализированного ПО по автоматизации проверки лабораторных работ*
 
 * Лаборант <br>
-*Лабороторный комплекс информационных технологий и программирования ВФ ВолГУ* (2021-2023)
+*Лабораторный комплекс информационных технологий и программирования ВФ ВолГУ* (2021-2023)
 
    * *Преподавала в колледже*: разработка программных модулей (Git, GitHub), разработка мобильных приложений (Kotlin), технология разработки и защиты баз данных;
    * *Обновление аппаратной части компьютеров*  
