@@ -30,7 +30,7 @@
 
 ### Социальные сети
 
-[![e-mail](https://img.shields.io/badge/-email-color&?style=for-the-badge&color=informational&logo=LinkedIn)](mailto:ostapchuk.anastasiia.v@gmail.com)
+[![e-mail](https://img.shields.io/badge/-email-color&?style=for-the-badge&color=informational&logo=email)](mailto:ostapchuk.anastasiia.v@gmail.com)
 [![VK](https://img.shields.io/badge/-VK-color&?style=for-the-badge&color=45668e&logo=VK)](https://vk.com/anisia_kisa)
 [![telegram](https://img.shields.io/badge/-telegram-color&?style=for-the-badge&color=45668e&logo=telegram)](https://t.me/anastasiia_ost_v)
 
