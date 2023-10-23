@@ -5,6 +5,7 @@
 [![e-mail](https://img.shields.io/badge/-email-color&?style=for-the-badge&color=informational&logo=email)](mailto:ostapchuk.anastasiia.v@gmail.com)
 [![VK](https://img.shields.io/badge/-VK-color&?style=for-the-badge&color=45668e&logo=VK)](https://vk.com/anisia_kisa)
 [![telegram](https://img.shields.io/badge/-telegram-color&?style=for-the-badge&color=45668e&logo=telegram)](https://t.me/anastasiia_ost_v)
+[![codeforces](https://img.shields.io/badge/-codeforces-color&?style=for-the-badge&color=45668e)](https://codeforces.com/profile/anastasiya_kisa777)
 
 
 ![](https://raw.githubusercontent.com/aniciya777/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
