@@ -26,7 +26,7 @@
 ![C#](https://img.shields.io/badge/-C%23-color&?style=for-the-badge&color=informational&logo=C%20Sharp)
 ![REST API](https://img.shields.io/badge/-REST%20API-color&?style=for-the-badge&color=informational&logo=REST%20API)
 ![HTML5](https://img.shields.io/badge/-HTML%205-color&?style=for-the-badge&color=informational&logo=HTML5&logoColor=white)
-![CCS3](https://img.shields.io/badge/-CSS%203-color&?style=for-the-badge&color=informational&logo=CSS3)
+![CSS3](https://img.shields.io/badge/-CSS%203-color&?style=for-the-badge&color=informational&logo=CSS3)
 ![SQL](https://img.shields.io/badge/-SQL-color&?style=for-the-badge&color=informational&logo=SQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-color&?style=for-the-badge&color=informational&logo=SQLite)
 ![MySQL](https://img.shields.io/badge/-MySQL-color&?style=for-the-badge&color=informational&logo=MySQL&logoColor=white)
@@ -53,7 +53,7 @@
 * Лаборант <br>
 Лабораторный комплекс информационных технологий и программирования ВФ ВолГУ (2021-2023)
 
-   * Преподавала в колледже: разработка программных модулей (Python, REST API, HTML5, CCS, SQL, Flask), разработка мобильных приложений (Kotlin), технология разработки и защиты баз данных (SQL, SQLite, MySQL);
+   * Преподавала в колледже: разработка программных модулей (Python, REST API, HTML5, CSS 3, SQL, Flask), разработка мобильных приложений (Kotlin), технология разработки и защиты баз данных (SQL, SQLite, MySQL);
    * Обновление аппаратной части компьютеров
    * Администрирование сервера филиала
 
