@@ -77,7 +77,8 @@
 * Диплом 3 степени за стартап-проект в Акселераторе ВолГУ
 * 2 место в XXVII региональной конференции молодых ученых и исследователей Волгоградской области
 * 3rd Degree Diploma (7 problems) ICPC Southern and Volga Russia Qualifier 8 october 2023
-
+* Участник 1/4 ICPC 1 november 2023
+  
 ### Курсы
    * Нейронные сети и компьютерное зрение (Samsung Research Russia)
    * Python: основы и применение (BIOINFORMATICS INSTITUTE)
