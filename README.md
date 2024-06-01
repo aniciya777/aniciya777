@@ -30,8 +30,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-color&?style=for-the-badge&color=informational&logo=SQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-color&?style=for-the-badge&color=informational&logo=SQLite)
 ![MySQL](https://img.shields.io/badge/-MySQL-color&?style=for-the-badge&color=informational&logo=MySQL&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-color&?style=for-the-badge&color=informational&logo=JavaScript&logoColor=white)
-![Vue.js 3](https://img.shields.io/badge/-Vue.js%203-color&?style=for-the-badge&color=informational&logo=Vue.js&logoColor=white)
 
 ### Образование
 * **01.04.02 Прикладная математика и информатика**, ВФ ВолГУ
